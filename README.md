@@ -6,7 +6,7 @@ Code shared under CC BY-NC-SA - Creative Commons Attribution-NonCommercial-Share
 ## Installation
 1. Install [Stylus](https://github.com/openstyles/stylus/), a web browser extension used to modify a page's css. Chrome extension found [here](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), Firefox extension [here](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), Opera extension [here](https://addons.opera.com/en/extensions/details/stylus/).
 
-###Easy  way:
+### Easy  way:
 1. Navigate to [the style download page.](https://userstyles.org/styles/195608/mycourses-dark-mode-beta) and click on *Install Style*.
 
 OR
@@ -15,14 +15,14 @@ OR
 2. Click on the Stylus extension icon and then on *Find styles*.
 3. Click on *MyCourses Dark Mode (Beta)* and it automatically installs into Stylus.
 
-###Other  way:
+### Other  way:
 1. Click on Stylus extension icon then on *Manage*.
 2. Click *Write new style* to create a new style.
 3. Copy the *darkMode.css* text into the code section.
 4. Click the plus icon next to *Applies to* near the bottom of the screen and change to *URLs on the domain mycourses2.mcgill.ca*
 5. Name the style whatever you want and save it.
 
-##Preview
+## Preview
 ![alt text](./preview.png)
 
 ---
