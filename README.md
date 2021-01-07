@@ -1,6 +1,6 @@
 # Dark Mode for MyCourses
 
-MyCourses Dark Mode for a better experience :). Some website text may be illegible due to the color scheme, so use at your own risk. The code has no affiliation to McGill University and no intention to circumvent the Policy on the Responsible Use of McGill Information. If it is the case that it unintentionally does, please inform me and I will gladly take it down.
+MyCourses Dark Mode for a better experience :). Some website text may be illegible due to the color scheme, so use at your own risk (I don't recommend to have it on during quizzes or tests). The code has no affiliation to McGill University and no intention to circumvent the Policy on the Responsible Use of McGill Information. If it is the case that it unintentionally does, please inform me and I will gladly take it down.
 Code shared under CC BY-NC-SA - Creative Commons Attribution-NonCommercial-ShareAlike.
 
 ## Installation
