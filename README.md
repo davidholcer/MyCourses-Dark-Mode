@@ -7,7 +7,7 @@ Code shared under CC BY-NC-SA - Creative Commons Attribution-NonCommercial-Share
 1. Install [Stylus](https://github.com/openstyles/stylus/), a web browser extension used to modify a page's css. Chrome extension found [here](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne), Firefox extension [here](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), Opera extension [here](https://addons.opera.com/en/extensions/details/stylus/).
 
 ### Easy  way:
-1. Navigate to [the style download page.](https://userstyles.org/styles/195608/mycourses-dark-mode-beta) and click on *Install Style*.
+1. Navigate to [the style download page](https://userstyles.org/styles/195608/mycourses-dark-mode-beta) and click on *Install Style*.
 
 OR
 
